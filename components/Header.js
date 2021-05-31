@@ -5,6 +5,9 @@ function Header() {
       <h1 className={headerStyles.title}>
         <span>Web developer</span> News
       </h1>
+      <p className={headerStyles.description}>
+        Keep up to date with the latest web developer news
+      </p>
     </div>
   );
 }
